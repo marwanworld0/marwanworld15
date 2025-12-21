@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>Marwan World</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="logo-box">
+    <img src="logo.png" class="logo">
+    <span class="site-name">Marwan World</span>
+  </div>
+
+  <nav class="menu">
+    <a href="photos.html">صور</a>
+    <a href="#">أغاني</a>
+    <a href="#">ألعاب</a>
+  </nav>
+</header>
+
+<div class="header-line"></div>
+
+<main class="content">
+  <h1>أهلاً بيك في Marwan World</h1>
+  <p>اختار من فوق صور – أغاني – ألعاب</p>
+</main>
+
+</body>
+</html>
